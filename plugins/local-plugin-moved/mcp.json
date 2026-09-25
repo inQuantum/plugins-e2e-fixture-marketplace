@@ -1,4 +1,11 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
-  "mcpServers": { "local-server": { "url": "https://example.com/mcp" } }
+  "mcpServers": {
+    "local-server": { "url": "https://example.com/mcp" },
+    "local-custom-auth": {
+      "type": "http",
+      "url": "https://mcp.fixture-e2e-test.example.com",
+      "headers": { "Authorization": "Bearer ${PLACEHOLDER}" }
+    }
+  }
 }
