@@ -1,5 +1,4 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "local-plugin",
-  "description": "Same-repo plugin used to test marketplace registration and catalog refresh."
-}
+  "description": "Same-repo plugin used to test marketplace registration and catalog refresh.",
