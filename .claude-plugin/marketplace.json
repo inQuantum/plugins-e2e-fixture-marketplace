@@ -1,7 +1,7 @@
 {
   "name": "fixture-marketplace",
   "plugins": [
-    { "name": "local-plugin", "source": "./plugins/local-plugin" },
+    { "name": "local-plugin", "source": "./plugins/local-plugin-moved" },
     { "name": "local-plugin-two", "source": "./plugins/local-plugin-two" }
   ]
 }
