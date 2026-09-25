@@ -1,0 +1,6 @@
+{
+  "name": "fixture-marketplace",
+  "plugins": [
+    { "name": "local-plugin", "source": "./plugins/local-plugin" }
+  ]
+}
