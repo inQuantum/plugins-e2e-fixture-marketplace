@@ -2,4 +2,4 @@
 name: local-skill
 description: Bundled skill inside the marketplace fixture's local plugin.
 ---
-Local skill, v9.
+Local skill, v10.
