@@ -1,7 +1,7 @@
 {
   "name": "fixture-marketplace",
   "plugins": [
-    { "name": "local-plugin", "source": "./plugins/local-plugin-moved" },
-    { "name": "local-plugin-three", "source": "./plugins/local-plugin-three" }
+    { "name": "fixture-valid-plugin", "source": "./plugins/fixture-valid-plugin" },
+    { "name": "fixture-invalid-plugin", "source": "./plugins/fixture-invalid-plugin" }
   ]
 }

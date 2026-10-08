@@ -1,0 +1,5 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fixture-invalid-plugin",
+  "description": "Invalid fixture plugin: parseable files with invalid data, used to test import error reporting."
+}
