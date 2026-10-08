@@ -6,9 +6,9 @@
       "url": "https://mcp.stripe.com",
       "headers": { "Authorization": "Bearer ${STRIPE_SECRET_KEY}" }
     },
-    "fixture-coingecko": {
-      "type": "sse",
-      "url": "https://mcp.api.coingecko.com/sse"
+    "fixture-deepwiki": {
+      "type": "http",
+      "url": "https://mcp.deepwiki.com/mcp"
     }
   }
 }
